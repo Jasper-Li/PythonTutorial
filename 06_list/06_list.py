@@ -7,8 +7,9 @@ print(True, '\t', type(True))
 print()
 
 data = ["July", 2021, 3.14, True]
-print('data is', data)
-print('data length', len(data))
 for d in data:
     print(d, '\t', type(d))
+
+print('data is', data)
+print('data length', len(data))
 
