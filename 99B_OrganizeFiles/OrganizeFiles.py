@@ -45,4 +45,3 @@ def organize_file(download_dir):
 if __name__ == '__main__':
     download_dir = input("Input download dir path:")
     organize_file(download_dir)
-
